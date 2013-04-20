@@ -1,0 +1,50 @@
+x+====================:::::::::::::::::---------:=
+++====================:::::::::::::::::----------:
++=======================::::::::::::::::----------
++=======================:::::::::::::::::---------
+=========================::::::::::::::::---------
+==========================::::::::::::::::--------
++==========================::::::::::::::::-------
+===========================:::::::::::::::::------
++===========================:::::::::::::::::-----
+++=========================:==:::::::::::::::-----
+++==========+x#%@@%%#+=======+#xxx=::xxxx+:::::---
+++=+======+%@#+=::==x%@+=====@xxx##:x%xxx@=::--:--
+++++==+==#@+....... ..x#=====@...+#:#x...@=:::::-=
++++====+#%-..... .....x#====+@...x#:#+...@:::::-:x
+++=++++x%-............x#====+%...#x:%=..-@::::::xx
+++++==+@:.....=#%%#x:.x#====x#...%x=@:..:@=::::+xx
++++++=%x.....#@%%%%@@@%#=#@@@x...%@@@-..=@@@x:+xxx
+++++++@-....#@##xxx##%%+=@=--....----....--=@xxxxx
++++++x% ...:@#x++++++x++=@:. ...  .........:@xxxxx
++++++#x....x%++======+===@:... .. . .......:@xxxxx
++++++%=....%#+===========@#xx-..-xxx+...+xx#@xxxxx
++++++@:....@x+===========x%%@-..=@@@x...%@@%#xxxxx
++++++@-. ..@+============++#@...+%x%x...@%##xxxxxx
++++++@-....@+=============+x@...x%+%+. .@#xxxxxxxx
++++++@-. ..@++==========+%%%%. .#@%@=..-@%%#xxxxxx
++++++@:. . @x===========%x++:.. =+==-. .==x@xxxxxx
++++++%=....##===========%=................-@xxxxxx
++++++%x....=@+==========%:................-@xxxxxx
++++++#%. ...%#=+=====+x=@+::-...::::...-::+@xxxxxx
++++++x@:. ..-@#x+++x%@@##@@@=..-@@@%...x@@@%xxxxxx
+++++++%x.... -x@@@@#+-x%x#%@:..:@%%#...#%%#xxxxxxx
+++++++x@=.............x%xx#@-..=@#%x...%##xxxxxxxx
+++++++x#@:.... .......x%xxx@...+%x%x...@#xxxxxxxxx
++++++++x%@+.... ......x%xx#@...x%x%+...@xxxxxxxxxx
++++++++x#%@@+:-...-:x%@#xx#%:::##x%x::=@xxxxxxxxxx
+++xxxxxxx##%@@@@@@@@@%#xxxx@@@@@#x#@@@@%xxxxxxxxxx
+xxxxxxxxxx###%%%%%%%%#xxxxx##%##xxx##%#xxxxxxxxxxx
+xxxxxxxxxxxxx#######xxxxxxxxx#xxxxxx###xxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx#
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx=:=x#
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx+.....=
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx#+......-
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx#x......-=
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx##:....-:+x
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx##x....-=x+=
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx##:..-=xx=:-
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx##x..:+x+:-..
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx###%:-=++=:-...

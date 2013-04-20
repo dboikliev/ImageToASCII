@@ -1,0 +1,5 @@
+C:\Users\Deyan\Documents\Visual Studio 2012\Projects\C#\Personal Projects\AsciiArt\ImageToAscii\bin\Release\ImageToAscii.exe
+C:\Users\Deyan\Documents\Visual Studio 2012\Projects\C#\Personal Projects\AsciiArt\ImageToAscii\bin\Release\ImageToAscii.pdb
+C:\Users\Deyan\Documents\Visual Studio 2012\Projects\C#\Personal Projects\AsciiArt\ImageToAscii\obj\Release\ImageToAscii.exe
+C:\Users\Deyan\Documents\Visual Studio 2012\Projects\C#\Personal Projects\AsciiArt\ImageToAscii\obj\Release\ImageToAscii.pdb
+C:\Users\Deyan\Documents\Visual Studio 2012\Projects\C#\Personal Projects\AsciiArt\ImageToAscii\obj\Release\ImageToAscii.csprojResolveAssemblyReference.cache
