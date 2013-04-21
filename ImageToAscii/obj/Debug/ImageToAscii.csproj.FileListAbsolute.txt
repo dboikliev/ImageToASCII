@@ -3,3 +3,5 @@ C:\Users\Deyan\Documents\Visual Studio 2012\Projects\C#\Personal Projects\AsciiA
 C:\Users\Deyan\Documents\Visual Studio 2012\Projects\C#\Personal Projects\AsciiArt\ImageToAscii\obj\Debug\ImageToAscii.exe
 C:\Users\Deyan\Documents\Visual Studio 2012\Projects\C#\Personal Projects\AsciiArt\ImageToAscii\obj\Debug\ImageToAscii.pdb
 C:\Users\Deyan\Documents\Visual Studio 2012\Projects\C#\Personal Projects\AsciiArt\ImageToAscii\obj\Debug\ImageToAscii.csprojResolveAssemblyReference.cache
+C:\Users\Deyan\Documents\GitHub\ImageToASCII\ImageToAscii\obj\Debug\ImageToAscii.exe
+C:\Users\Deyan\Documents\GitHub\ImageToASCII\ImageToAscii\obj\Debug\ImageToAscii.pdb

@@ -15,16 +15,16 @@ class ImageToAsciiConverter
             using (Graphics g = Graphics.FromImage(image))
             {
                 //32 is the code of the first and 126 is the code of the last printable character in the ASCII table
-                for (int i = 32; i <= 126; i++)
+                for (int symbolCode = 32; symbolCode <= 126; symbolCode++)
                 {
                     g.FillRectangle(Brushes.White, 0, 0, image.Width, image.Height);
 
-                    g.DrawString(((char)i).ToString(), (new Font("Consolas", 20)), Brushes.Black, 0, 0, StringFormat.GenericDefault);
+                    g.DrawString(((char)symbolCode).ToString(), (new Font("Consolas", 20)), Brushes.Black, 0, 0, StringFormat.GenericDefault);
 
                     g.Save();
 
                     //I noticed that there is some distortion when I use jpeg format which doesn't occur with bmp
-                    image.Save("char" + i + ".bmp", ImageFormat.Bmp);
+                    image.Save("char" + symbolCode + ".bmp", ImageFormat.Bmp);
                 }
             }
         }
